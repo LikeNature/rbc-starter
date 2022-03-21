@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-big-calendar/dist/react-big-calendar.esm.js b/node_modules/react-big-calendar/dist/react-big-calendar.esm.js
+index f80ba7f..7bac78b 100644
+--- a/node_modules/react-big-calendar/dist/react-big-calendar.esm.js
++++ b/node_modules/react-big-calendar/dist/react-big-calendar.esm.js
+@@ -234,7 +234,7 @@ function (_React$Component) {
+   function EventCell() {
+     return _React$Component.apply(this, arguments) || this;
+   }
+-
++  console.log("TESTTEEEEE~~~~~~~~~~~~~~~~")
+   var _proto = EventCell.prototype;
+ 
+   _proto.render = function render() {
